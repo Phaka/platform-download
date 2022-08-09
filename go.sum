@@ -1,0 +1,7 @@
+github.com/phaka/platform-go v0.0.0-20220808133726-5a181ab31b67 h1:wyU/sfXYk2kv3/O6LNwO96QEFcud10zzdNTUUJlKwG8=
+github.com/phaka/platform-go v0.0.0-20220808133726-5a181ab31b67/go.mod h1:8MtxGWBAcYPzHTWjl0SjGc+upvZ7y2jp4dkF7V67U9k=
+github.com/phaka/platform-go v0.1.0-alpha.1 h1:egP/mV5VkMQX4kl4YebTkktYN22UzC7koI/mtdN0Kjg=
+github.com/phaka/platform-go v0.1.0-alpha.1/go.mod h1:8MtxGWBAcYPzHTWjl0SjGc+upvZ7y2jp4dkF7V67U9k=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
